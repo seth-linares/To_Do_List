@@ -6,8 +6,6 @@ My To-Do List program, written in C++, provides a simple but intuitive interface
 The primary purpose behind creating this To-Do List program was to get accustomed to the syntax and other foreign aspects of C++. I have been programming in C# and Python for the past few years, so I wanted to challenge myself by learning a new language. I also wanted to create a program that I could use in my everyday life. I have always been a fan of to-do lists, so I thought it would be a great idea to create a program that would allow me to manage my tasks in a more efficient manner. I am very pleased with the outcome of this project and I am excited to continue learning C++.
 
 
-[To Do List Demonstration](https://youtu.be/Pb3YGoCxPpY)
-
 # Development Environment
 
 To develop the To-Do List software, I primarily used CLion as my IDE. CLion has a very user-friendly interface and provides an amazing environment to facilitate effective software development. The IDE also offers great features like intelligent code assistance and debugging capabilities. The ease of use and integrated tools provided by CLion allowed me to easily manage, write, and debug the code, enhancing my overall experience writing C++ code.
